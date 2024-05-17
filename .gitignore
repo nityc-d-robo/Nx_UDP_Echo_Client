@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+.DS_Store
+build/
+cmake/
+Debug/
+STM32H563ZITX_FLASH.ld
+STM32H563ZITX_RAM.ld
+CMakeLists.txt
+CMakePresets.json
+vcpkg-configuration.json
